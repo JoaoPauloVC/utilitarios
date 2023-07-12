@@ -1,0 +1,16 @@
+Movimentação em Linha
+CTRL + A : Começo da Linha
+CTRL + E : Fim da Linha
+ALT + F : Avança uma palavra
+ALT + B : Volta uma palavra
+
+Apagar conteúdo da Linha
+CTRL + U : Cursor para trás
+CTRL + K : Cursor para frente
+
+Busca por linha anterior:
+CTRL + R
+
+Múltiplos Comandos
+; : executa em sequência (Ex: cd 'diretório' ; mkdir 'novo_diretŕio)
+&& : executa em sequência (interrompe se tiver falha)
